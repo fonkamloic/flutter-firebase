@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455499753111",
+    "firebase_url": "https://hands-on-firebase-3c8b2.firebaseio.com",
+    "project_id": "hands-on-firebase-3c8b2",
+    "storage_bucket": "hands-on-firebase-3c8b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455499753111:android:34cadd402e34f96e676bd2",
+        "android_client_info": {
+          "package_name": "me.fonkamloic.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455499753111-0csl2j5nl8faggej0p38g7fe7dp080hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjeohOeuVY-QPK2zuY4KrAYJbV1tZedjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455499753111-0csl2j5nl8faggej0p38g7fe7dp080hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
